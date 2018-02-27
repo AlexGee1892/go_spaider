@@ -1,6 +1,6 @@
-#include<stdio.c>
+#include<stdio.h>
 int main()
 {
     printf("keep calm\n");
-    return 0
+    return 0;
 }
