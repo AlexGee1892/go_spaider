@@ -1,6 +1,5 @@
 package main
 import "fmt"
-//import "spider"
 import "strconv"
 import "net/http"
 import "io/ioutil"
